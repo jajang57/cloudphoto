@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CloudPhoto Gallery Marthen",
+  "description": "A cloud-based photo storage and sharing application that allows users to manage and share their photo galleries, with options to upload new photos or capture them directly using the device camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
